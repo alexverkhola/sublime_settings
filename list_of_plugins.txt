@@ -1,0 +1,4 @@
+Цветовая схема: Base16 Color Scheme : base16-atelier-seaside
+Плагины: AutoFileName, BracketHighliter, ColorHighliter, Emmet, Goto-CSS-Declaration, Tag
+Подсветка синтаксиса: SCSS
+Плагин Tag - http://fls.guru/files/Tag.zip

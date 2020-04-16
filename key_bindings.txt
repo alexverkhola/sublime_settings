@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+1"], "command": "move", "args": {"by": "characters", "forward": false} },//Курсор влево
+	{ "keys": ["alt+4"], "command": "move", "args": {"by": "characters", "forward": true} },//Курсор вправо
+	{ "keys": ["alt+2"], "command": "move", "args": {"by": "lines", "forward": false} },//Курсор вниз
+	{ "keys": ["alt+3"], "command": "move", "args": {"by": "lines", "forward": true} },//Курсор вверх
+	{"keys": ["ctrl+1"], "command": "goto_css_declaration", "args": {"goto":"next"} },// Переход на style.css по нажатию ctrl+1 с index.html
+	{"keys": ["ctrl+`"], "command": "tag_classes"},// Копирует в имена классов из HTML
+]

@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-atelier-seaside.tmTheme",
+	"draw_indent_guides": false,
+	"draw_white_space": "all",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"remember_open_files": true,
+	"tab_size": 4,
+	"trim_tralling_white_space_on_save": false,
+	"word_wrap": false
+}
